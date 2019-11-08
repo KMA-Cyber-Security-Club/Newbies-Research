@@ -1,0 +1,15 @@
+[submodule "Web-Exploitation"]
+	path = Web-Exploitation
+	url = https://github.com/KMA-Cyber-Security-Club/Web-Exploitation.git
+[submodule "Cryptography"]
+	path = Cryptography
+	url = https://github.com/KMA-Cyber-Security-Club/Cryptography.git
+[submodule "Reversing"]
+	path = Reversing
+	url = https://github.com/KMA-Cyber-Security-Club/Reversing.git
+[submodule "Forensics"]
+	path = Forensics
+	url = https://github.com/KMA-Cyber-Security-Club/Forensics.git
+[submodule "Binary-Exploitation"]
+	path = Binary-Exploitation
+	url = https://github.com/KMA-Cyber-Security-Club/Binary-Exploitation.git
